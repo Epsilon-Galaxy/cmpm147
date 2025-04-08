@@ -53,7 +53,7 @@ function main() {
     }
   
     /* global box */
-    $("#box").text("RAHH");
+    $("#box").text(story);
   }
   
   /* global clicker */
@@ -64,4 +64,4 @@ function main() {
 }
 
 // let's get this party started - uncomment me
-//main();
+main();
