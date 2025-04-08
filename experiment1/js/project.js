@@ -53,7 +53,7 @@ function main() {
     }
   
     /* global box */
-    $("#box").text(story);
+    $("#box").text("RAHH");
   }
   
   /* global clicker */
